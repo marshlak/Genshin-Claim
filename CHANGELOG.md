@@ -1,5 +1,11 @@
 # Genshin Claim Changelog
 
+## 0.3 beta (not-released)
+- Уменьшен объем потребляемой оперативной памяти (40%).
+- Закрытие проекта Genshin Claim.
+- Открытие нового проекта с переходом на WPF (Celestia).
+###
+
 ## 0.2 beta
 
 ###
